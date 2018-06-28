@@ -2,7 +2,7 @@ import mysql.connector
 
 config = {
   'user': 'root',
-  'password': 'active@123',
+  'password': 'root',
   'host': '127.0.0.1',
   'database': 'nlpproj',
   'raise_on_warnings': True,
@@ -39,6 +39,15 @@ data_department.append((41,'Mining',101))
 data_department.append((43,'Mechanical',102))
 for i in range(6):
 	cursor.execute(add_department,data_department[i])
+	
+#Add users tables
+add_user = "INSERT INTO users (userid,password,access,name) VALUES (%s,%s,%s,%s)"
+data_user=[]
+data_user.append(('admin','admin',1,'Admin'))
+data_user.append(('user','user',2,'User'))
+for i in range(2):
+	cursor.execute(add_users,data_user[i])
+	
 	
 cnx.commit()
 cursor.close()
