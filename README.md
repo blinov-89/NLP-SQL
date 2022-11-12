@@ -5,9 +5,9 @@ The system gives accurate results for certain class of queries including relatio
 Quick Setup
 
 1. Create and activate virtual Environment :
-   $ virtualenv nlpSql 
+   $ virtualenv
    
-   $ source nlpSql/bin/activate
+   $ source /bin/activate
  
 2. Download required packages :
    $ pip install -r requirements.txt 
@@ -21,5 +21,4 @@ Quick Setup
 4. Run Server :
    $ python nlp-sql.py
 
-References: 
-[1] Garima Singh, Arun Solanki 2016. An algorithm to transform natural language into SQL queries for relational databases. Gautam Buddha University, Greater Noida, India
+
