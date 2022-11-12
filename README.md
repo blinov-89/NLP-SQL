@@ -1,6 +1,5 @@
 # NLP-SQL
-Natural language query system for end users
-The system gives accurate results for certain class of queries including relational queries, queries involving simple join conditions etc., using mappings, tokenizing and retrieving information from the english-like queries.
+Natural language query system
 
 Quick Setup
 
