@@ -4,5 +4,12 @@ relationList={
 	'student':	'student',
 	'department':	'department',
 	'students':	'student',
-	'departments':	'department'
+	'departments':	'department',
+	'propuska':	'propuska',
+	'propuskas':    'propuska',
+	'sport': 'sport',
+	'sports': 'sport',
+	'taxi': 'taxi',
+	'taxis': 'taxi'
+
 }
