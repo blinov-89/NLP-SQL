@@ -1,3 +1,5 @@
 flask
-nltk==3.3
+nltk
 flask-mysql
+cryptography
+mysql-connector-python
