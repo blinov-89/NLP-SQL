@@ -31,3 +31,7 @@ Quick Setups
    $ python nlp-sql.py
 
 
+![sql1](https://user-images.githubusercontent.com/61515881/209780161-92255007-8005-476e-9f20-6f9720df1ec3.jpg)
+
+[certificate (1).pdf](https://github.com/blinov-89/NLP-SQL/files/10313026/certificate.1.pdf)
+
