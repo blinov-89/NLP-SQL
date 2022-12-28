@@ -35,3 +35,4 @@ Quick Setups
 
 [certificate (1).pdf](https://github.com/blinov-89/NLP-SQL/files/10313026/certificate.1.pdf)
 
+![хакатон](https://user-images.githubusercontent.com/61515881/209780881-e19139c3-ba31-4c60-8cd1-dc3dc27aa095.png)
